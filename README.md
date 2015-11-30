@@ -1,2 +1,2 @@
 # Hello-World
-Hello-World is a sample text
+Hello-World is a sample project
